@@ -30,7 +30,7 @@ SOFTWARE.
 #define NLOHMANN_JSON_HPP
 
 #include <algorithm> // all_of, copy, fill, find, for_each, none_of, remove, reverse, transform
-#include <array> // array
+#include <array> // array//
 #include <cassert> // assert
 #include <cctype> // isdigit
 #include <ciso646> // and, not, or
